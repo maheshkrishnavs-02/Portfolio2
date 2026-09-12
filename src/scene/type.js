@@ -16,7 +16,7 @@
 const TEXT = 'MAHESH';
 
 // measured from the supplied hero artwork: ink width / cap height
-export const TARGET_RATIO = 3.121;
+export const TARGET_RATIO = 2.8;
 
 function ctx2d(w, h) {
   const c = document.createElement('canvas');
